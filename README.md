@@ -6,3 +6,5 @@ To build it with electron you can use one of the following (based on your OS):
 - npm run package-win
 - npm run package-mac
 - npm run package-linux
+
+![example](image.png)
