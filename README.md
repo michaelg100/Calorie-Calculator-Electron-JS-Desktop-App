@@ -1,4 +1,4 @@
-# calorie-calculator-electron-app
+# calorie calculator electron desktop app
 
 You will need to install the dependencies 'npm install'.
 To test it out you can use 'npm start' after you setup nodejs.
